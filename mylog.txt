@@ -1,0 +1,60 @@
+ 2015  cd 培训作业/
+ 2016  ls
+ 2017  cd gitTest/
+ 2018  ls
+ 2019  git clone git@github.com:turf96/test.git
+ 2020  cd ..
+ 2021  cd ~
+ 2022  ls
+ 2023  cd .ssh
+ 2024  ls
+ 2025  pwd
+ 2026  cd ~
+ 2027  ls
+ 2028  cd work凯媒工作/
+ 2029  ls
+ 2030  cd 培训作业/
+ 2031  ls
+ 2032  cd gitTest/
+ 2033  ls
+ 2034  git clone git@github.com:turf96/test.git
+ 2035  ls
+ 2036  cd test/
+ 2037  ls
+ 2038  cd ..
+ 2039  ssh -T git@github.com
+ 2040  git config --global user.email "994992468@qq.com"
+ 2041  git config --global user.name "turf96"
+ 2042  git --help
+ 2043  branch
+ 2044  git branch
+ 2045  git -branch
+ 2046  ls
+ 2047  cd test/
+ 2048  ls
+ 2049  git branch
+ 2050  git branch A
+ 2051  git branch
+ 2052  git branch B
+ 2053  git checkout master
+ 2054  ls
+ 2055  git checkout A
+ 2056  ls
+ 2057  git --help
+ 2058  git branch
+ 2059  git checkout master
+ 2060  git push origin HEAD -u
+ 2061  git checkout A
+ 2062* git push origin HEAD -
+ 2063  git checkout B
+ 2064  git push origin HEAD -u
+ 2065  history
+ 2066  git history
+ 2067  history > mylog.txt 
+ 2068  ls
+ 2069  cat mylog.txt 
+ 2070  vim mylog.txt 
+ 2071  nano mylog.txt 
+ 2072  history 30
+ 2073  history 60
+ 2074  history 60 > mylog.txt
